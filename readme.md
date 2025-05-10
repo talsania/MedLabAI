@@ -87,7 +87,7 @@ MedLabAI/
 - scikit-learn model
   > Algorithm: Random Forest Classifier (100 trees, `random_state=42`)  
 
-## ⚠️ Limitations
+## ⚠️ Important
 
 - Training data is synthetic - real world accuracy will vary
 - Limited to predicting common conditions only
