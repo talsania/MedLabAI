@@ -6,6 +6,7 @@
 
 MedLabAI analyzes blood test parameters to predict potential health conditions including diabetes, anemia, kidney disease, and infections. The system runs entirely offline with no external API dependencies.
 
+> Disclaimer: This application is for educational purposes only and should not be used for actual medical diagnosis. Always consult healthcare professionals for medical advice.
 ## ✨ Features
 
 - Predicts health conditions from blood test parameters
@@ -91,8 +92,3 @@ MedLabAI/
 - Training data is synthetic - real world accuracy will vary
 - Limited to predicting common conditions only
 - Not a substitute for professional medical diagnosis
-> Disclaimer: This application is for educational purposes only and should not be used for actual medical diagnosis. Always consult healthcare professionals for medical advice.
-
-## 📄 License
-
-MIT
