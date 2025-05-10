@@ -80,10 +80,11 @@ MedLabAI/
 ## 🛠 Technologies
 
 - Python 3.8+
-- Streamlit
-- scikit-learn
 - pandas, numpy
 - matplotlib, seaborn
+- Streamlit
+- scikit-learn model
+  > Algorithm: Random Forest Classifier (100 trees, `random_state=42`)  
 
 ## ⚠️ Limitations
 
