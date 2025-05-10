@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Model artifacts
+models/
+*.joblib
+*.pkl
+*.sav
+
+# Streamlit cache/config
+.streamlit/
+
+# IDE and OS-specific
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Jupyter notebooks (if ever added)
+.ipynb_checkpoints/
